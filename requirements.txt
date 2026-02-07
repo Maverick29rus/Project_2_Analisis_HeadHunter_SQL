@@ -1,0 +1,7 @@
+beautifulsoup4
+matplotlib
+pandas
+psycopg[binary]
+python-decouple
+requests
+ipykernel
